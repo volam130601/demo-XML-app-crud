@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<breakfast_menu>
+    <food id="1">
+        <name>Belgian Waffles</name>
+        <price>$5.95</price>
+        <description>Two of our famous Belgian Waffles with plenty of real maple syrup</description>
+        <calories>650</calories>
+    </food>
+    <food id="4">
+        <name>Lam Vo</name>
+        <price>$123.0</price>
+        <description>123</description>
+        <calories>123</calories>
+    </food>
+    <food id="6">
+        <name>Lam Vo</name>
+        <price>$123.0</price>
+        <description>123</description>
+        <calories>123</calories>
+    </food>
+    <food id="7">
+        <name>Lam Vo12312312</name>
+        <price>$123.03123</price>
+        <description>123123123</description>
+        <calories>12312312</calories>
+    </food>
+</breakfast_menu>
